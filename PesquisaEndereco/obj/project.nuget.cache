@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tnleVgj0NF15St2GkMeTVaDGBJOVrUEUW7AkLq6MjCIzP4j46svvitxMoESPQOZAnVPwLEcftKtmwhzjI2rxkA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mriaa\\OneDrive\\Documentos\\Desafio Inventti\\PesquisaEndereco\\PesquisaEndereco\\PesquisaEndereco.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mriaa\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
